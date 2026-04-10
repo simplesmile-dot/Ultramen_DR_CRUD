@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Data.SqlClient;
-//commit 1
+//commit
 namespace CRUDMahasiswaADO
 {
     public partial class Form1 : Form
